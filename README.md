@@ -7,7 +7,7 @@ Roadmap for the future:
 4. File compression and decompression
 
 
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/devsiddhant/Colab_operations/blob/master/Rclone%20notebook%20with%20torrenting%20support%20enabled.ipynb)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/devsiddhant/Colab_operations/blob/master/Rclone%20notebook%20with%20torrenting%20support%20enabled.ipynb)
 
 
 
